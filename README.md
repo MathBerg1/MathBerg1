@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**NezPreponderant/NezPreponderant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Bachelor student at EPFL in the chemistry and chemical engineering section
 
-Here are some ideas to get you started:
+## Aspiring to become a researcher or a professor for the gymnase
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
